@@ -1,0 +1,6 @@
+# Unused source images (page embeds its own assets)
+patrick-s-photo-*.avif
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
