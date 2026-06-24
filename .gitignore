@@ -4,3 +4,10 @@ patrick-s-photo-*.avif
 # OS / editor cruft
 .DS_Store
 Thumbs.db
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
